@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="com.automic.staging" />
+      <option name="name" value="com.automic.staging" />
+      <option name="url" value="https://nexusvie.automic.com/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="com.automic.ecc.snapshots" />
+      <option name="name" value="com.automic.ecc.snapshots" />
+      <option name="url" value="https://nexusvie.automic.com/nexus/content/repositories/com.automic.ecc.snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://nexusvie.automic.com/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="com.automic.snapshots" />
+      <option name="name" value="com.automic.snapshots" />
+      <option name="url" value="https://nexusvie.automic.com/nexus/content/repositories/snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="com.automic.ecc" />
+      <option name="name" value="com.automic.ecc" />
+      <option name="url" value="https://nexusvie.automic.com/nexus/content/repositories/com.automic.ecc/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="com.automic.ara.snapshots" />
+      <option name="name" value="com.automic.ara.snapshots" />
+      <option name="url" value="https://nexusvie.automic.com/nexus/content/repositories/com.automic.ara.snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="com.automic.ae" />
+      <option name="name" value="com.automic.ae" />
+      <option name="url" value="https://nexusvie.automic.com/nexus/content/sites/automation-engine/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="com.automic.releases" />
+      <option name="name" value="com.automic.releases" />
+      <option name="url" value="https://nexusvie.automic.com/nexus/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="com.automic.nexus3.snapshots" />
+      <option name="name" value="com.automic.nexus3.snapshots" />
+      <option name="url" value="https://nexusvie.automic.com/nexus/content/repositories/com.automic.nexus3.snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+</project>
